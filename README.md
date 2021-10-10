@@ -27,3 +27,5 @@ Things you may want to cover:
 - Create a Heroku env: heroku create
 
 - Push code to heroku: git push heroku
+
+- this app is in: https://vast-savannah-09781.herokuapp.com/
