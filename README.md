@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Heroku set up
+- Create a Heroku env: heroku create
+
+- Push code to heroku: git push heroku
